@@ -1,0 +1,15 @@
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar5\HomeWork38\obj\Debug\net6.0\HomeWork38.csproj.AssemblyReference.cache
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar5\HomeWork38\obj\Debug\net6.0\HomeWork38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar5\HomeWork38\obj\Debug\net6.0\HomeWork38.AssemblyInfoInputs.cache
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar5\HomeWork38\obj\Debug\net6.0\HomeWork38.AssemblyInfo.cs
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar5\HomeWork38\obj\Debug\net6.0\HomeWork38.csproj.CoreCompileInputs.cache
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar5\HomeWork38\bin\Debug\net6.0\HomeWork38.exe
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar5\HomeWork38\bin\Debug\net6.0\HomeWork38.deps.json
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar5\HomeWork38\bin\Debug\net6.0\HomeWork38.runtimeconfig.json
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar5\HomeWork38\bin\Debug\net6.0\HomeWork38.dll
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar5\HomeWork38\bin\Debug\net6.0\HomeWork38.pdb
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar5\HomeWork38\obj\Debug\net6.0\HomeWork38.dll
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar5\HomeWork38\obj\Debug\net6.0\refint\HomeWork38.dll
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar5\HomeWork38\obj\Debug\net6.0\HomeWork38.pdb
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar5\HomeWork38\obj\Debug\net6.0\HomeWork38.genruntimeconfig.cache
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar5\HomeWork38\obj\Debug\net6.0\ref\HomeWork38.dll
